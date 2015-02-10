@@ -1,0 +1,22 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# IDEs
+nb-configuration.xml
+nbactions*.xml
+
+# auxiliary scripts
+*.sh
+
+# log files
+*.log
+
+# python files
+flask
+
+# nodejs files
+node_modules
